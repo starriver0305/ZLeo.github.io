@@ -11,9 +11,9 @@ title                    : "Liuzheng's Homepage"
 title_separator          : "-"
 name                     : &name "Zheng Liu(刘政)"
 description              : &description "Nanjing University"
-url                      : https://starriver0305.github.io/ZLeo.github.io/
+url                      : # https://starriver0305.github.io/ZLeo.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "starriver0305.github.io/ZLeo.github.io"
+repository               : #"starriver0305.github.io/ZLeo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
