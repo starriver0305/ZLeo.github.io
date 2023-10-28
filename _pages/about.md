@@ -17,13 +17,13 @@ My research interest includes machine learning and deep learning. Currently, my 
 
 Awards
 ======
-2022 Silver Award in Nanjing University Algorithm Competition.
-2022 Ruli Scholarship.
-2023 GuoXieBirong Scholarship.
+- 2022 Silver Award in Nanjing University Algorithm Competition.
+- 2022 Ruli Scholarship.
+- 2023 GuoXieBirong Scholarship.
 
 
 Contact me
 ------
-[Email](mailto:211830093@smail.nju.edu.cn) / [Github](https://github.com/starriver0305) / [Wechat](../images/wechat.jpg) / 
+[Email](mailto:211830093@smail.nju.edu.cn) / [Github](https://github.com/starriver0305) / [Wechat](../images/wechat.jpg)
 
 
