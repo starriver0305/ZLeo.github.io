@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zheng Liu(刘政)"
-  avatar           : "photo.png"
+  avatar           : 
   bio              : "Nanjing University"
   location         : "Nanjing, Jiangsu, China"
   employer         :
